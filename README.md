@@ -1,92 +1,84 @@
-<!-- ✨ MAHAKTECH — Where Innovation Respects Tradition -->
+<!-- 👑 MahakTech — Premium Tech Company -->
 
-<h1 align="center"><strong>MAHAKTECH</strong></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=00EEFF&center=true&vCenter=true&width=600&lines=MAHAKTECH;Innovation+with+Values;Engineering+the+Future;Building+Smart+Solutions" />
+</h1>
+
 <p align="center">
-  Innovating With Values • Engineering the Future
+  <strong>Premium Technology • Trust • Growth</strong><br>
+  Turning modern ideas into successful digital solutions.
 </p>
 
 ---
 
-## 🌟 About MahakTech
-MahakTech builds technology that is **smart**, **reliable**, and **human-focused**.  
-We honor the past while developing solutions for the future.
+## 🚀 About MahakTech
+MahakTech is a future-focused tech company delivering **smart**, **reliable**, and **user-friendly** solutions.
 
-> “Technology should uplift lives without forgetting where we come from.”  
-> — Mahak Saxena(Founder and Ceo)
+> We believe innovation should respect roots while shaping the future.
 
 ---
 
-## 🚀 What We Offer
+## 🧠 What We Do
 
-| Category | Sub-Brand | Focus |
-|---------|----------|------|
-| Web & App Solutions | **MahakTech Core** | Websites, business tools |
-| AI & Research | **FutureLab** | ML, intelligent systems |
-| IoT & Hardware | **Power** | Electronics & automation |
-| Enterprise & Luxury Tech | **Elite** | Premium custom solutions |
-| Creative Digital Products | **Galaxy** | Future UI & UX innovations |
-
-✨ One company — **five powerful domains**.
+| Category | Focus |
+|---------|------|
+| 🌐 Web Development | Modern Websites, Web Apps |
+| 📱 App Development | Android + iOS Business Apps |
+| 🤖 AI / ML | Smart Analytics & Automation |
+| 🔌 IoT & Hardware | Smart Devices & Electronics |
+| 🧑‍💻 Digital Services | Complete Business IT Support |
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,arduino,python,bootstrap,figma,git,github,vscode&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,arduino,bootstrap,git,github,vscode,figma&perline=6"/>
 </p>
 
 ---
 
-## 📊 Our Tech Journey
+## 📊 Performance & Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahaktech&show_icons=true&theme=algolia&rank_icon=github"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mahaktech&theme=algolia"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahaktech&show_icons=true&theme=algolia&rank_icon=github"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mahaktech&theme=algolia"/>
 </p>
+
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaktech&layout=compact&theme=algolia"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaktech&layout=compact&theme=algolia"/>
 </p>
 
 ---
 
 ## 🎯 Vision
-✔ Technology that **helps people**  
-✔ Innovation with **trust & honesty**  
-✔ Future-ready solutions with **simplicity**
+✔ Innovation with heart  
+✔ Tech that uplifts lives  
+✔ Solutions for a smarter future  
 
-We’re building a legacy — one invention at a time.
-
----
-
-## 🧩 Why Choose Us?
-- Human-first approach  
-- Quality and long-term support  
-- Smart and scalable development  
-- Passion for transforming ideas into reality  
+We are building technology that creates **real-world impact**.
 
 ---
 
-## 📬 Contact & Connect
-Partner with us — let’s build something meaningful together.
-
-📧 Email → **saxenamahak612@gmail.com**  
-💼 GitHub → https://github.com/Mahak-Tech-05  
-🌐 Portfolio → https://mahak-tech-05.github.io/mahaktech-portfolio.io/
+## 🤝 Connect & Work With Us
+📧 Email : **saxenamahak612@gmail.com**  
+🌍 Website : Coming Soon…  
+💼 GitHub : https://github.com/Mahak-0101  
 
 ---
 
-## 🏆 Milestones
-✅ Delivered client projects  
-✅ Developing smart new products  
-🎯 Aim: Global tech recognition  
-❤️ Making a mark with pride & values  
+## 🏆 Achievements
+✅ Delivered real client results  
+✅ Expanding digital services  
+🎯 Aim: Become a recognized global tech brand  
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting MahakTech.</b><br>
-  ⭐ Support our journey by starring our repositories!
+  <b>Thank You for Visiting! ⭐</b><br>
+  Respecting tradition, creating the future.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
+
+<!-- End of MahakTech README -->
