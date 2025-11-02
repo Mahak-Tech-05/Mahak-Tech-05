@@ -1,89 +1,92 @@
-<!-- MahakTech — Innovating With Heart & Purpose -->
+<!-- ✨ MAHAKTECH — Where Innovation Respects Tradition -->
 
-<h1 align="center">
-  <br>
-  <strong>MAHAKTECH</strong>
-  <br>
-</h1>
-
+<h1 align="center"><strong>MAHAKTECH</strong></h1>
 <p align="center">
-  🚀 Innovation | 💡 Intelligent Solutions | 🤝 Trusted Growth
+  Innovating With Values • Engineering the Future
 </p>
 
 ---
 
-## ✨ About Us
-MahakTech is a forward-thinking tech company that respects tradition while shaping the future.
+## 🌟 About MahakTech
+MahakTech builds technology that is **smart**, **reliable**, and **human-focused**.  
+We honor the past while developing solutions for the future.
 
-We believe technology should:
-- Empower lives
-- Solve real problems
-- Feel human, not complicated
-
-> Building technology with values — that’s our promise.
+> “Technology should uplift lives without forgetting where we come from.”  
+> — Mahak Saxena(Founder and Ceo)
 
 ---
 
-## 🧩 What We Do
-We deliver solutions that are simple, powerful, and scalable:
+## 🚀 What We Offer
 
-| Service | Focus |
-|--------|------|
-| 🌐 Web Development | Business & personal websites |
-| 📱 Mobile App Development | Modern apps for Android & iOS |
-| 🤖 AI + Machine Learning | Smart automation tools |
-| 🔌 IoT & Electronics | Custom hardware innovations |
-| 🧑‍💻 Full Digital Services | Branding, IT support & more |
+| Category | Sub-Brand | Focus |
+|---------|----------|------|
+| Web & App Solutions | **MahakTech Core** | Websites, business tools |
+| AI & Research | **FutureLab** | ML, intelligent systems |
+| IoT & Hardware | **Power** | Electronics & automation |
+| Enterprise & Luxury Tech | **Elite** | Premium custom solutions |
+| Creative Digital Products | **Galaxy** | Future UI & UX innovations |
+
+✨ One company — **five powerful domains**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,arduino,figma,git,github,vscode&perline=7">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,arduino,python,bootstrap,figma,git,github,vscode&perline=7"/>
 </p>
 
 ---
 
-## 🚀 Our Journey in Tech
+## 📊 Our Tech Journey
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahaktech&show_icons=true&theme=algolia&rank_icon=github"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mahaktech&theme=algolia"/>
 </p>
-
 <p align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaktech&layout=compact&theme=algolia"/>
 </p>
 
 ---
 
-## 🎯 Our Mission
-✔ Technology should serve people  
-✔ Innovation must be trustworthy  
-✔ Growth should be sustainable  
+## 🎯 Vision
+✔ Technology that **helps people**  
+✔ Innovation with **trust & honesty**  
+✔ Future-ready solutions with **simplicity**
 
-We are building solutions that **last**.
-
----
-
-## 🔗 Contact & Connect
-Have an idea? Let's build it.
-
-📩 Email: **saxenamahak612@gmail.com**  
-💼 GitHub: https://github.com/Mahak-0101  
-🌐 Official Website: *(Coming Soon)*  
-
-> Together, we turn visions into reality.
+We’re building a legacy — one invention at a time.
 
 ---
 
-## 🏆 Achievements
-✅ Delivered real-world client projects  
-🚧 Developing new smart solutions  
-🎯 Global ambitions are in motion  
+## 🧩 Why Choose Us?
+- Human-first approach  
+- Quality and long-term support  
+- Smart and scalable development  
+- Passion for transforming ideas into reality  
+
+---
+
+## 📬 Contact & Connect
+Partner with us — let’s build something meaningful together.
+
+📧 Email → **saxenamahak612@gmail.com**  
+💼 GitHub → https://github.com/Mahak-Tech-05  
+🌐 Portfolio → https://mahak-tech-05.github.io/mahaktech-portfolio.io/
+
+---
+
+## 🏆 Milestones
+✅ Delivered client projects  
+✅ Developing smart new products  
+🎯 Aim: Global tech recognition  
+❤️ Making a mark with pride & values  
 
 ---
 
 <p align="center">
-  <strong>Thank you for visiting MahakTech 💙</strong><br>
-  If you believe in innovation with heart, support us ⭐
+  <b>Thanks for visiting MahakTech.</b><br>
+  ⭐ Support our journey by starring our repositories!
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
