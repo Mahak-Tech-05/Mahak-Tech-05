@@ -1,124 +1,149 @@
-<!-- =========================
-     MAHAKTECH — README.md
-     All-in-one premium brand README
-     Paste this entire file into README.md
-   ========================= -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MahakTech - Innovating the Future</title>
 
-<!-- Hero / Animated Title -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=46&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=✨+MAHAKTECH+✨;Crafting+Technology+with+Heart+%26+Vision;Where+Tradition+Meets+Tomorrow" alt="MahakTech" />
-  <h4 style="margin-top:10px; color:#9aa4b2;">A premium technology brand — smart, sincere, and future-ready</h4>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
 
-  <!-- Badge Row -->
-  <p>
-    <img src="https://img.shields.io/badge/FOUNDED%20BY-Mahak-ff7b54?style=for-the-badge&logo=ghost" alt="Founder badge" />
-    <img src="https://img.shields.io/badge/FOCUS-IoT%20|%20AI%20|%20Web-blueviolet?style=for-the-badge" alt="Focus" />
-    <img src="https://img.shields.io/badge/STATUS-GROWING-success?style=for-the-badge" alt="Status" />
-    <img src="https://img.shields.io/badge/CONTACT-info%40mahaktech.com-lightgrey?style=for-the-badge" alt="Contact" />
-  </p>
-</div>
+<style>
+    *{margin:0;padding:0;box-sizing:border-box;font-family:'Poppins',sans-serif;}
+    body{background:#0a0f24;color:#fff;}
 
----
+    /* Hero Section */
+    header{
+        height:100vh;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        text-align:center;
+        padding:20px;
+        background:linear-gradient(135deg,#0f172a,#1e293b,#334155);
+        animation:bgMove 8s infinite alternate;
+    }
+    @keyframes bgMove{0%{background-position:left}100%{background-position:right}}
 
-<!-- Floating hero card -->
-<div align="center">
-  <table width="90%" style="border-radius:18px; background: linear-gradient(135deg,#0f172a 0%, #071428 50%, rgba(8,7,20,0.85)100%); padding:18px;">
-    <tr>
-      <td style="vertical-align: middle; padding: 12px; width:120px;">
-        <!-- Logo placeholder: replace src with your logo (svg/png) -->
-        <img src="https://via.placeholder.com/110x110.png?text=Logo" alt="MahakTech Logo" style="border-radius:16px; box-shadow: 0 6px 20px rgba(0,0,0,0.6);" />
-      </td>
-      <td style="color:#cbd5e1; padding-left:14px;">
-        <h2 style="margin:0 0 6px 0; color:#e6f7ff;">MahakTech — Technology Crafted with Purpose</h2>
-        <p style="margin:0; color:#9fb4c7;">
-          We build meaningful products — IoT devices, elegant web & mobile apps, and scalable AI solutions.
-          Rooted in tradition, designed for tomorrow. <strong>We turn problems into projects, projects into success.</strong>
-        </p>
-        <p style="margin-top:10px;">
-          <a href="https://mahak-tech-05.github.io/mahaktech-portfolio.io/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-            <img src="https://img.shields.io/badge/Explore%20Portfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio" />
-          </a>
-          <a href="mailto:info@mahaktech.com" style="text-decoration:none; margin-left:8px;">
-            <img src="https://img.shields.io/badge/Contact-Email-lightgrey?style=for-the-badge" alt="Email" />
-          </a>
-        </p>
-      </td>
-      <td style="vertical-align: middle; text-align:center; padding-left:16px;">
-        <!-- Visual quick stats -->
-        <div style="background:rgba(255,255,255,0.03); padding:14px; border-radius:12px;">
-          <div style="font-size:13px; color:#9fb4c7;">Projects</div>
-          <div style="font-weight:700; font-size:22px; color:#fff; margin-top:6px;">12+</div>
-          <div style="margin-top:8px; font-size:12px; color:#9fb4c7;">Active & delivered</div>
+    h1{font-size:3.2rem;font-weight:700;}
+    h2{font-size:1.4rem;font-weight:300;opacity:.9;margin:10px 0 20px;}
+
+    .btn{
+        padding:12px 30px;
+        background:#1e90ff;
+        border:none;
+        border-radius:40px;
+        font-size:1rem;
+        cursor:pointer;
+        transition:.3s;
+        font-weight:600;
+    }
+    .btn:hover{background:#005eb8;transform:scale(1.05);}
+
+    /* Sections */
+    section{padding:70px 12%;}
+    h3{text-align:center;font-size:2.2rem;margin-bottom:35px;}
+
+    /* Services */
+    .services{
+        display:grid;
+        grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+        gap:25px;
+    }
+    .box{
+        background:#111a33;
+        padding:25px;
+        border-radius:18px;
+        text-align:center;
+        transition:.4s;
+        border:1px solid transparent;
+    }
+    .box:hover{
+        transform:translateY(-8px);
+        border-color:#1e90ff;
+        box-shadow:0 0 25px rgba(30,144,255,0.3);
+    }
+    .box i{font-size:2.2rem;margin-bottom:10px;color:#1e90ff;}
+
+    /* Contact */
+    .contact{
+        text-align:center;
+        margin-top:30px;
+    }
+    .contact a{
+        display:inline-block;
+        background:#1e90ff;
+        padding:12px 18px;
+        margin:0 10px;
+        border-radius:50%;
+        color:#fff;
+        font-size:1.3rem;
+        transition:.3s;
+    }
+    .contact a:hover{background:#005eb8;transform:scale(1.15);}
+
+    footer{
+        text-align:center;
+        padding:25px;
+        background:#08101c;
+        font-size:.9rem;
+        margin-top:40px;
+    }
+</style>
+</head>
+
+<body>
+
+<!-- Hero -->
+<header>
+    <h1>MahakTech</h1>
+    <h2>Innovating with Respect for Tradition</h2>
+    <button class="btn" onclick="document.querySelector('#services').scrollIntoView({behavior:'smooth'});">
+        Discover Our Work
+    </button>
+</header>
+
+<!-- Services -->
+<section id="services">
+    <h3>Our Services</h3>
+    <div class="services">
+        <div class="box">
+            <i class="fa-solid fa-globe"></i>
+            <h4>Web Development</h4>
+            <p>High-quality websites built with care and future-ready standards.</p>
         </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## ✨ What MahakTech Does
-We focus on real outcomes and responsible innovation. Our core services:
-
-- **IoT & Smart Automation** — Hardware + cloud + mobile control
-- **Web & Mobile Development** — Modern UX, responsive & accessible
-- **AI / ML Solutions** — Practical automation and data insights
-- **Full Digital Services** — Branding, deployment & ongoing support
-
----
-
-## 🧩 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,python,arduino,html,css,bootstrap,git,github,vscode,figma&perline=7" alt="tech icons" />
-</p>
-
----
-
-## 💼 Featured Projects
-> Short snapshots — swap these with real links, screenshots, and repo URLs.
-
-<div align="center">
-  <table width="100%" style="border-collapse:collapse;">
-    <tr>
-      <td width="33%" style="padding:10px; vertical-align:top;">
-        <div style="background:#0b1220; padding:14px; border-radius:12px; height:100%;">
-          <h3 style="color:#cfeffd; margin:0 0 6px 0;">Smart Home Hub</h3>
-          <p style="color:#9fb4c7; margin:0 0 8px 0;">An edge+cloud solution to control sensors & appliances using an intuitive mobile app.</p>
-          <p style="margin:0;"><a href="#" style="color:#9be7ff; text-decoration:none;">View project →</a></p>
+        <div class="box">
+            <i class="fa-solid fa-mobile-screen"></i>
+            <h4>App Development</h4>
+            <p>Android and iOS apps designed for performance and simplicity.</p>
         </div>
-      </td>
-      <td width="33%" style="padding:10px; vertical-align:top;">
-        <div style="background:#0b1220; padding:14px; border-radius:12px;">
-          <h3 style="color:#cfeffd; margin:0 0 6px 0;">Realtime Gesture Interface</h3>
-          <p style="color:#9fb4c7; margin:0 0 8px 0;">A gesture-to-voice interface optimized for low-latency on-browser performance.</p>
-          <p style="margin:0;"><a href="#" style="color:#9be7ff; text-decoration:none;">View project →</a></p>
+        <div class="box">
+            <i class="fa-solid fa-microchip"></i>
+            <h4>AI & Automation</h4>
+            <p>Solutions that make life easier without losing the human touch.</p>
         </div>
-      </td>
-      <td width="33%" style="padding:10px; vertical-align:top;">
-        <div style="background:#0b1220; padding:14px; border-radius:12px;">
-          <h3 style="color:#cfeffd; margin:0 0 6px 0;">AI Document Classifier</h3>
-          <p style="color:#9fb4c7; margin:0 0 8px 0;">A lightweight ML pipeline to classify and extract structured data from documents.</p>
-          <p style="margin:0;"><a href="#" style="color:#9be7ff; text-decoration:none;">View project →</a></p>
+        <div class="box">
+            <i class="fa-solid fa-headset"></i>
+            <h4>Tech Support</h4>
+            <p>Reliable help whenever you need it — because trust matters.</p>
         </div>
-      </td>
-    </tr>
-  </table>
-</div>
+    </div>
+</section>
 
----
+<!-- Contact -->
+<section>
+    <h3>Contact Us</h3>
+    <div class="contact">
+        <a href="mailto:saxenamahak612@gmail.com"><i class="fa-solid fa-envelope"></i></a>
+        <a href="https://github.com/Mahak-0101" target="_blank"><i class="fa-brands fa-github"></i></a>
+        <a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+    </div>
+</section>
 
-## 🧭 Brand Identity (All-in-one)
-This README combines elements across styles:
-- **Futuristic neon accents** for energy and tech feel  
-- **Luxury touches** through spacing, fonts, and badges  
-- **Startup clarity** (short, actionable sections)  
-- **Minimal professionalism** in layout and hierarchy  
-- **Cosmic gradient suggestions** — use the banner below for a cosmic feel
+<footer>
+    © 2025 MahakTech | Tradition + Innovation
+</footer>
 
-**To change the main look:** swap the `Logo` placeholder and the `Hero image` (below) with your assets.
-
-### Hero / Cover image (optional)
-Use a wide banner for more presence. Replace `BG_IMAGE_URL` with your image link:
-```html
-<!-- Place under the top hero to show a wide banner -->
-<img src="BG_IMAGE_URL" alt="cover banner" style="width:100%; border-radius:12px; margin-top:12px;" />
+</body>
+</html>
