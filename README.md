@@ -1,149 +1,86 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MahakTech - Innovating the Future</title>
+<!-- ⚡ MahakTech — Tradition Meets Future Technology -->
 
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+<h1 align="center">✨ MahakTech ✨</h1>
+<h3 align="center">Innovation with Values | Technology with Purpose</h3>
 
-<style>
-    *{margin:0;padding:0;box-sizing:border-box;font-family:'Poppins',sans-serif;}
-    body{background:#0a0f24;color:#fff;}
+---
 
-    /* Hero Section */
-    header{
-        height:100vh;
-        display:flex;
-        justify-content:center;
-        align-items:center;
-        flex-direction:column;
-        text-align:center;
-        padding:20px;
-        background:linear-gradient(135deg,#0f172a,#1e293b,#334155);
-        animation:bgMove 8s infinite alternate;
-    }
-    @keyframes bgMove{0%{background-position:left}100%{background-position:right}}
+### 🌟 Who We Are
+MahakTech blends **modern engineering** with **strong traditional values**.  
+We build technology that **uplifts**, **empowers**, and **simplifies** life.
 
-    h1{font-size:3.2rem;font-weight:700;}
-    h2{font-size:1.4rem;font-weight:300;opacity:.9;margin:10px 0 20px;}
+> “Our innovation respects our roots.”  
+> — Mahak, Founder
 
-    .btn{
-        padding:12px 30px;
-        background:#1e90ff;
-        border:none;
-        border-radius:40px;
-        font-size:1rem;
-        cursor:pointer;
-        transition:.3s;
-        font-weight:600;
-    }
-    .btn:hover{background:#005eb8;transform:scale(1.05);}
+---
 
-    /* Sections */
-    section{padding:70px 12%;}
-    h3{text-align:center;font-size:2.2rem;margin-bottom:35px;}
+### 🚀 What We Do
+We provide **end-to-end tech solutions** with heart:
 
-    /* Services */
-    .services{
-        display:grid;
-        grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
-        gap:25px;
-    }
-    .box{
-        background:#111a33;
-        padding:25px;
-        border-radius:18px;
-        text-align:center;
-        transition:.4s;
-        border:1px solid transparent;
-    }
-    .box:hover{
-        transform:translateY(-8px);
-        border-color:#1e90ff;
-        box-shadow:0 0 25px rgba(30,144,255,0.3);
-    }
-    .box i{font-size:2.2rem;margin-bottom:10px;color:#1e90ff;}
+- ✅ Web Development & Modern Websites  
+- ✅ Mobile Applications  
+- ✅ IoT & Smart Automation  
+- ✅ AI + Machine Learning Solutions  
+- ✅ Business Digitalization Services  
+- ✅ Long-term Support & Growth
 
-    /* Contact */
-    .contact{
-        text-align:center;
-        margin-top:30px;
-    }
-    .contact a{
-        display:inline-block;
-        background:#1e90ff;
-        padding:12px 18px;
-        margin:0 10px;
-        border-radius:50%;
-        color:#fff;
-        font-size:1.3rem;
-        transition:.3s;
-    }
-    .contact a:hover{background:#005eb8;transform:scale(1.15);}
+---
 
-    footer{
-        text-align:center;
-        padding:25px;
-        background:#08101c;
-        font-size:.9rem;
-        margin-top:40px;
-    }
-</style>
-</head>
+### 🧠 Technologies We Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,arduino,python,bootstrap,vscode,figma,git,github&perline=6"/>
+</p>
 
-<body>
+---
 
-<!-- Hero -->
-<header>
-    <h1>MahakTech</h1>
-    <h2>Innovating with Respect for Tradition</h2>
-    <button class="btn" onclick="document.querySelector('#services').scrollIntoView({behavior:'smooth'});">
-        Discover Our Work
-    </button>
-</header>
+### 📈 Our Growth in Tech
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahaktech&show_icons=true&theme=radical&rank_icon=github"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mahaktech&theme=radical"/>
+</p>
 
-<!-- Services -->
-<section id="services">
-    <h3>Our Services</h3>
-    <div class="services">
-        <div class="box">
-            <i class="fa-solid fa-globe"></i>
-            <h4>Web Development</h4>
-            <p>High-quality websites built with care and future-ready standards.</p>
-        </div>
-        <div class="box">
-            <i class="fa-solid fa-mobile-screen"></i>
-            <h4>App Development</h4>
-            <p>Android and iOS apps designed for performance and simplicity.</p>
-        </div>
-        <div class="box">
-            <i class="fa-solid fa-microchip"></i>
-            <h4>AI & Automation</h4>
-            <p>Solutions that make life easier without losing the human touch.</p>
-        </div>
-        <div class="box">
-            <i class="fa-solid fa-headset"></i>
-            <h4>Tech Support</h4>
-            <p>Reliable help whenever you need it — because trust matters.</p>
-        </div>
-    </div>
-</section>
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaktech&layout=compact&theme=radical"/>
+</p>
 
-<!-- Contact -->
-<section>
-    <h3>Contact Us</h3>
-    <div class="contact">
-        <a href="mailto:saxenamahak612@gmail.com"><i class="fa-solid fa-envelope"></i></a>
-        <a href="https://github.com/Mahak-0101" target="_blank"><i class="fa-brands fa-github"></i></a>
-        <a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-    </div>
-</section>
+---
 
-<footer>
-    © 2025 MahakTech | Tradition + Innovation
-</footer>
+### 🎯 Our Mission
+To create technology that is:
 
-</body>
-</html>
+✨ Simple  
+🔒 Trusted  
+🌍 Helpful in real lives  
+📈 Scalable for the future  
+
+We respect where we come from — and build for where we are going. 🚀
+
+---
+
+### 🤝 Let’s Grow Together
+Have an idea? We’ll bring it to life.
+
+📧 Email: **saxenamahak612@gmail.com**  
+🔗 Portfolio: *Coming Soon*  
+🌍 GitHub: https://github.com/Mahak-0101  
+
+---
+
+### 🏆 Achievements & Vision
+- ✅ Delivered real client solutions  
+- ✅ Expanding services rapidly  
+- 🌟 Aim: Become a global tech leader  
+
+> Proudly building something meaningful — step by step.
+
+---
+
+### 🧡 Thank You!
+<p align="center">
+  <b>Your support inspires innovation.</b><br>
+  ⭐ Star our work — and stay connected!
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
