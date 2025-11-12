@@ -1,84 +1,84 @@
-<!-- 👑 MahakTech — Premium Tech Company -->
+# 👋 Hi, I’m Mahak — founder @ MahakTech
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=00EEFF&center=true&vCenter=true&width=600&lines=MAHAKTECH;Innovation+with+Values;Engineering+the+Future;Building+Smart+Solutions" />
-</h1>
+> Building practical technology with care, discipline, and a belief that good work honors what came before and prepares what comes next.
 
-<p align="center">
-  <strong>Premium Technology • Trust • Growth</strong><br>
-  Turning modern ideas into successful digital solutions.
-</p>
+[![Website](https://img.shields.io/badge/website-mahaktech-blue)](https://your-website.example)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahak-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-contact%40mahaktech.com-D14836?logo=gmail)](mailto:contact@mahaktech.com)
 
 ---
 
-## 🚀 About MahakTech
-MahakTech is a future-focused tech company delivering **smart**, **reliable**, and **user-friendly** solutions.
+## 🚀 What I do
+I run **MahakTech** — teaching, building small web & embedded systems projects, and mentoring students so they can learn deep, useful skills. I value traditional discipline in craftsmanship, paired with modern tools and a growth mindset.
 
-> We believe innovation should respect roots while shaping the future.
-
----
-
-## 🧠 What We Do
-
-| Category | Focus |
-|---------|------|
-| 🌐 Web Development | Modern Websites, Web Apps |
-| 📱 App Development | Android + iOS Business Apps |
-| 🤖 AI / ML | Smart Analytics & Automation |
-| 🔌 IoT & Hardware | Smart Devices & Electronics |
-| 🧑‍💻 Digital Services | Complete Business IT Support |
+- Teaching practical programming and electronics
+- Building web apps, small IoT systems, and student-ready projects
+- Creating clear, useful learning resources and certificates for learners
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,arduino,bootstrap,git,github,vscode,figma&perline=6"/>
-</p>
+## 🧰 Tech & Tools
+I prefer well-established, reliable tools. I mix classic, dependable tech with new ideas where they add value.
+
+- Languages: `Python` · `JavaScript` · `C/C++`
+- Web: `HTML` · `CSS` · `React` · `Node.js`
+- Embedded: `Arduino` · `ESP32`
+- Dev & infra: `Git` · `GitHub` · `Docker` · `Linux`
+- Data & learning: `Pandas` · `SQLite`
 
 ---
 
-## 📊 Performance & Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahaktech&show_icons=true&theme=algolia&rank_icon=github"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mahaktech&theme=algolia"/>
-</p>
+## ✨ Featured Projects
+> Focus on real projects students can learn from. Replace these with your repositories.
 
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaktech&layout=compact&theme=algolia"/>
-</p>
-
----
-
-## 🎯 Vision
-✔ Innovation with heart  
-✔ Tech that uplifts lives  
-✔ Solutions for a smarter future  
-
-We are building technology that creates **real-world impact**.
+- **RFID-Attendance-System** — Simple, reliable attendance using Arduino + RFID + Google Sheets.
+  - _Why it matters:_ practical hardware + cloud logging for classrooms.
+- **MahakTech-Courses-Portal** — Minimal web portal to host course materials and issue certificates.
+  - _Why it matters:_ clean UX for learners and teachers.
+- **Beginner-Python-Notes** — Structured notes and exercises for absolute beginners.
+  - _Why it matters:_ helps students reach competency fast.
 
 ---
 
-## 🤝 Connect & Work With Us
-📧 Email : **saxenamahak612@gmail.com**  
-🌍 Website : Coming Soon…  
-💼 GitHub : https://github.com/Mahak-0101  
+## 📚 Teaching & Contribution
+I believe in documentation, reproducible examples, and gentle mentorship.
+
+- Lesson plans and slide decks for beginner–intermediate classes
+- Hands-on labs: each lesson includes tasks worth real practice time
+- Open to collaborative teaching and internship mentorship
 
 ---
 
-## 🏆 Achievements
-✅ Delivered real client results  
-✅ Expanding digital services  
-🎯 Aim: Become a recognized global tech brand  
+## 🤝 Want to collaborate?
+I welcome:
+- Students who want guided internships
+- Teachers who want to co-run a session
+- Developers who value clear, maintainable projects
+
+Email: contact@mahaktech.com  
+LinkedIn: https://www.linkedin.com/in/your-linkedin
 
 ---
 
-<p align="center">
-  <b>Thank You for Visiting! ⭐</b><br>
-  Respecting tradition, creating the future.
-</p>
+## 📈 GitHub Profile Highlights
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</p>
+> Replace `mahaktech` below with your GitHub username if different.
 
-<!-- End of MahakTech README -->
+[![mahaktech's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahaktech&show_icons=true&theme=default&count_private=true)](https://github.com/mahaktech)
+
+---
+
+## 📝 How to use this README
+1. Copy this file into `README.md` in your profile repo (or main repo).  
+2. Edit the placeholder links (website, socials, email).  
+3. Replace featured-projects with links and short one-line descriptions.  
+4. Optionally add screenshots / GIFs under the Featured Projects section.
+
+---
+
+## 🙏 Final note
+I value steady practice, respect for established craft, and the courage to try new things. If you find value here — share it forward, teach someone else, and keep building.
+
+*— Mahak, CEO & Founder, MahakTech*
+
