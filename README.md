@@ -1,14 +1,20 @@
-<!-- 🌐 MAHAKTECH | Official Company GitHub Profile -->
+<!-- 🌐 MAHAKTECH | Official GitHub Company Profile -->
 
-<!-- 🔮 Futuristic Banner -->
+<!-- 🚀 Futuristic Banner -->
 <p align="center">
   <img src="https://cdn.pixabay.com/photo/2023/12/20/03/52/technology-8458841_1280.png" alt="Futuristic Tech City" width="100%" />
 </p>
 
-<!-- ✨ Animated Intro -->
+<!-- 💫 Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=F73B7B&center=true&vCenter=true&width=700&lines=Welcome+to+MahakTech+🌐;Innovating+Tomorrow’s+Technology+Today;Empowering+Students+and+Creators;Building+Smart+Solutions+with+Heart+❤️" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=F73B7B&center=true&vCenter=true&width=800&lines=Welcome+to+MahakTech+🌐;Innovating+Tomorrow’s+Technology+Today;Empowering+Students+and+Creators;Building+Smart+Solutions+with+Heart+❤️" alt="Typing Animation" />
 </h1>
+
+<p align="center">
+  <a href="https://mahak-tech-05.github.io/mahaktech-portfolio.io/">
+    <img src="https://img.shields.io/badge/🌐_Visit_Our_Website-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F73B7B,100:7F00FF&height=130&section=header&text=🌟%20MAHAKTECH%20%7C%20OFFICIAL%20PROFILE%20🌟&fontSize=28&fontAlignY=35&fontColor=fff" />
@@ -20,10 +26,10 @@
 
 > “At MahakTech, we blend innovation with integrity — creating technology that empowers students, startups, and creators.”
 
-MahakTech is a forward-thinking **tech education & development company**, founded to:
-- Teach, mentor, and inspire future innovators  
-- Build reliable, practical, and smart tech systems  
-- Deliver digital learning experiences that make an impact  
+MahakTech is a forward-thinking **tech education & development company**, founded by **Mahak**, with the mission to:
+- 💻 Educate and mentor future innovators  
+- ⚙️ Build reliable, real-world smart systems  
+- 🌍 Deliver digital learning experiences that make an impact  
 
 Our motto: **Learn. Build. Inspire.**
 
@@ -31,12 +37,12 @@ Our motto: **Learn. Build. Inspire.**
 
 ## 🚀 What We Do
 
-| Area | Description |
-|------|--------------|
+| 🌟 Area | 💬 Description |
+|---------|----------------|
 | 🎓 **Education & Mentorship** | Hands-on training in Python, Web Development, IoT, and AI. |
 | 💻 **Project Development** | Smart IoT, web, and automation projects built with precision. |
 | 🧾 **Internships & Certification** | Official virtual internships with verified MahakTech certificates. |
-| 🌍 **Community Growth** | Empowering learners to become confident tech creators. |
+| 🌐 **Community Growth** | Empowering learners to become confident tech creators. |
 
 ---
 
@@ -52,45 +58,47 @@ Our motto: **Learn. Build. Inspire.**
 
 | Project | Description |
 |----------|--------------|
-| 🪪 [RFID Smart Attendance System](https://github.com/mahaktech/RFID-Attendance-System) | IoT-based smart attendance using RFID, Arduino, and cloud integration. |
-| 🌐 [MahakTech Learning Portal](https://github.com/mahaktech/Learning-Portal) | Portal for courses, project tracking, and certificate generation. |
-| 🧠 [Python Course Repository](https://github.com/mahaktech/Python-Course) | Comprehensive Python training materials with exercises. |
-| 💼 [MahakTech Website](https://github.com/mahaktech/Company-Website) | The official MahakTech company website and brand portfolio. |
+| 🪪 [RFID Smart Attendance System](https://github.com/Mahak-Tech-05/RFID-Attendance-System) | IoT-based attendance system using RFID, Arduino, and cloud integration. |
+| 🌐 [MahakTech Portfolio Website](https://mahak-tech-05.github.io/mahaktech-portfolio.io/) | The official MahakTech portfolio and company site. |
+| 🧠 [Python Course Repository](https://github.com/Mahak-Tech-05/Python-Course) | Comprehensive Python training materials with exercises. |
+| 💼 [Company Website Source](https://github.com/Mahak-Tech-05/Company-Website) | MahakTech’s official website & project showcase. |
 
 ---
 
-## 🏆 Company Highlights
+## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahaktech&theme=discord&no-bg=true&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahak-Tech-05&theme=discord&no-bg=true&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahaktech&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahaktech&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahak-Tech-05&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahak-Tech-05&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahaktech&theme=react-dark&hide_border=true&area=true&custom_title=MahakTech%20Activity%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahak-Tech-05&theme=react-dark&hide_border=true&area=true&custom_title=MahakTech%20Activity%20Graph" />
 </p>
 
 ---
 
-## 🤝 Collaborate With Us
+## 🤝 Connect With Us
 
 We welcome:
-- 🔧 **Educational partnerships** – Schools, colleges & trainers  
-- 💼 **Internship seekers** – Students ready to learn by doing  
-- 💻 **Developers** – Passionate builders of real-world systems  
-- 🌐 **Clients** – Who want powerful, custom software or IoT solutions  
+- 🔧 **Educational Partnerships** – Schools, colleges & mentors  
+- 💼 **Internship Seekers** – Students ready to learn by doing  
+- 💻 **Developers** – Passionate builders of smart systems  
+- 🌐 **Clients** – Who want reliable software or IoT solutions  
 
-📬 Reach us: **contact@mahaktech.com**  
-🌍 Visit: **https://mahaktech.com** *(replace with your site when ready)*  
-📱 Follow: [LinkedIn](https://linkedin.com/company/mahaktech) • [Instagram](https://instagram.com/mahaktech) • [Twitter](https://twitter.com/mahaktech)
+📬 **Email:** [saxenamahak612@gmail.com](mailto:saxenamahak612@gmail.com)  
+💼 **LinkedIn:** [www.linkedin.com/in/mahak-tech-377406365](https://www.linkedin.com/in/mahak-tech-377406365)  
+📸 **Instagram:** [@mahaktech](https://www.instagram.com/p/DOwIct0Cizu/?utm_source=ig_web_copy_link)  
+🌐 **Website:** [mahaktech.in (Portfolio)](https://mahak-tech-05.github.io/mahaktech-portfolio.io/)  
+💻 **GitHub:** [Mahak-Tech-05](https://github.com/Mahak-Tech-05)
 
 ---
 
